@@ -1,2 +1,2 @@
 # first_website
-My first website tith appacademy
+My first website with appacademy
